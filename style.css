@@ -4,11 +4,12 @@
   border: none;
 }
 
-.ui.borderless.midmenu.menu {
+.ui.borderless.middlemenu.menu {
   box-shadow: none;
   border: none;
 }
 
-.pagefooter {
-  padding: 15px 0px 15px 0px;
+.footer-background {
+  bcakground-color: #292929;
+  height: 200px;
 }
