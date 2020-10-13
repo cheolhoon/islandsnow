@@ -26,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,13 +37,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4869" y="461" key="FileChooserDialogImpl" timestamp="1601980396465">
+    <state x="4869" y="461" key="FileChooserDialogImpl" timestamp="1602019722548">
       <screen x="3840" y="0" width="2498" height="1440" />
     </state>
-    <state x="4869" y="461" key="FileChooserDialogImpl/0.0.1536.824/3840.0.2498.1440@3840.0.2498.1440" timestamp="1601980396465" />
-    <state x="4749" y="403" key="new project wizard" timestamp="1601980418442">
+    <state x="4869" y="461" key="FileChooserDialogImpl/0.0.1536.824/3840.0.2498.1440@3840.0.2498.1440" timestamp="1602019722548" />
+    <state x="4749" y="403" key="new project wizard" timestamp="1601986114472">
       <screen x="3840" y="0" width="2498" height="1440" />
     </state>
-    <state x="4749" y="403" key="new project wizard/0.0.1536.824/3840.0.2498.1440@3840.0.2498.1440" timestamp="1601980418442" />
+    <state x="4749" y="403" key="new project wizard/0.0.1536.824/3840.0.2498.1440@3840.0.2498.1440" timestamp="1601986114472" />
   </component>
 </project>
